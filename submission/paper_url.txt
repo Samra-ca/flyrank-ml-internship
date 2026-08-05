@@ -1,1 +1,1 @@
-https://github.com/Samra-ca/FlyRank-research-paper
+https://fly-rank-research-paper.vercel.app/
