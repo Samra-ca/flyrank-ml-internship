@@ -1,0 +1,17 @@
+{
+  "queue_rows": 30000,
+  "top_reason_codes": {
+    "decline_trend;weak_position;low_ctr": 9766,
+    "decline_trend;low_ctr": 7561,
+    "weak_position;low_ctr": 5586,
+    "low_ctr": 5240,
+    "decline_trend": 574,
+    "review_needed": 552,
+    "decline_trend;weak_position": 285,
+    "weak_position": 262,
+    "stale_content;low_ctr": 43,
+    "decline_trend;stale_content;weak_position;low_ctr": 40
+  },
+  "top_priority_score": 13472.9645,
+  "median_priority_score": 17.80235
+}
